@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import time
 
 
-url_begin = 'https://www.giantbomb.com/api/franchise/3025-'
+url_begin = 'https://www.giantbomb.com/api/concept/3015-'
 url_end = '/?api_key='
 api_key = 'YOUR KEY HERE'
 
@@ -12,7 +12,7 @@ def create_url(i):
     return url_begin + str(i) + url_end + api_key
 
 begin = 1
-end = 5000
+end = 2000
 
 for i in range(begin, end+1):
     url = create_url(i)
@@ -34,7 +34,7 @@ for i in range(begin, end+1):
                 if (cchild.tag == "aliases") & (cchild.text is not None):
                     aliases.append(cchild.text)
 
-    with open("FranchiseDict.txt", "a") as myfile:
+    with open("ConceptDict.txt", "a") as myfile:
         try:
             myfile.write(name + '\n')
         except UnicodeEncodeError:
