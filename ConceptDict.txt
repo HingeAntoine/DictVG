@@ -1,0 +1,3629 @@
+Double Jump
+Mid-air Jump
+Easter Egg
+Projectiles
+Projectile
+Ranged Attack
+Uber Trick System
+Wall Jump
+Triangle jump
+Wall grab 
+Wall climb
+Wall slide
+
+Quick Time Event
+QTE
+Speed Blur
+Speed Smearing
+Teleportation
+Blink
+Gamebreaker
+Fatality
+Cloak
+Ninja
+Shinobi
+Ninja Warrior
+Ninja Assassin
+Boxer
+Boxing
+Pugilist
+Fog of War
+FoW
+
+
+Skiing
+Combo
+Combination
+Wallhack
+Rocket Jump
+Rocket Jumping
+Finishing Move
+Finisher
+Special Finisher
+Takedowns
+Cutscene
+Cover Athlete
+Stealth
+Sneaking
+Infiltration
+Invisible
+Capture The Flag
+CTF
+Professional Wrestler
+Pro-Wrestler
+Multiple Endings
+God Mode
+Achievements
+Gamerscore
+Leaderboard
+Leaderboards
+
+
+
+
+Rubber Band AI
+Dynamic game difficulty balancing
+dynamic difficulty adjustment
+dynamic game balancing
+DDA
+DGB
+
+
+Password
+Experience Points
+ExP
+Experience
+XP
+Telefrag
+Teleport Gibbing
+
+T-Virus
+Tyrant Virus
+ADAM
+Button Mashing
+Button Bashing
+Instant Replay
+Show Me Just What  Just Happened Mode
+Mass Effect Field
+
+Active Reload
+
+Boss Fight
+Boss Battle, Bossfights
+Save Point
+Save Points
+Kilrathi
+Shinra Electric Power Company
+Silent Protagonist
+Mute
+Silent Character
+Cover System
+Dig-in
+Cover Mechanics
+Cover-Based Shooting
+Wilhelm Scream
+Abilitease
+Power takeaway
+Metroiding
+Castroiding
+Saiyan
+SSJ
+SS
+Super Saiyan
+Saiya-Jin
+
+Futuristic Game Show
+Future Sport
+Violent Sport
+Mind Control
+Hypnotism
+Hypnosis
+Suggestion
+Brainwashing
+Mind Jacking
+Indoctrination
+Burning Legion
+The Combine
+Stunt Position
+Resonance Cascade
+
+
+
+
+
+
+Time Travel
+Time loop
+
+Drifting
+Power Slide
+Point and Click
+Point 'n' Click
+Micromanagement
+Dialogue Trees
+Dialogue Wheel
+Bullet Time
+Witch Time
+Zombie
+Animated Corpse
+Walking Dead
+Zombies
+Walker
+The Forerunner
+The Covenant
+
+Regenerating Health
+Regenerative Health
+Healing Factor
+Health Regeneration
+Sniping
+Headshot
+Head Shot
+Unreal Engine 3
+UE3
+Griefing
+Uncooperative Multiplayer
+Physics Manipulation
+physics engine
+Push to Talk
+Super Soldier
+SuperSoldier
+Shift Queuing
+Day/Night Cycle
+Moral Decisions
+Moral Choices
+Ethical Decisions
+Ethical Choices
+Moral System
+Morality System
+
+Active Time Battle
+ATB
+Breast Bounce
+Boob Physics
+Jiggle Physics
+Breast Physics
+Boob Jiggle
+Critical Hit
+Massive Damage
+Critical Strike
+Deadly Strike
+Magic
+Magick
+Thaumaturgy
+Spell Casting
+Casting Magic
+Casting Spells
+Summoning
+Conjuring
+Conjure
+Invoking
+Invoke
+Damsel In Distress
+Distressed Damsel
+Maiden in Peril
+Save the Princess
+
+Explosive Tipped Arrows
+Letters Replaced by Numbers in Title
+Games With Numbers Where Letters Should Go
+Numbers replacing letters
+L33t N4m1ng
+Leet Naming
+1337 speak
+Words Replaced by Numbers in Title 
+Kaiju
+Gargantuan
+Giant Monster
+Aggro
+Loading Screens
+
+Cooperative Play
+Co-operative
+Co-op
+Teamwork
+Frag
+
+God Complex
+Megalomaniac
+Destructible Cover
+Nazis
+National Socialist German Workers' Party
+Nationalsozialistische Deutsche Arbeiterpartei
+NSDAP
+Peripherals
+Kudos
+Minigames
+Mini Games
+Mini-Games
+Minigame
+Vampire
+Vampires
+Vampyr
+Vampirism
+Nosferatu
+Ragdoll Physics
+My Father's Sword
+Koopa
+Koopa Clan
+Vaporware
+Vapourware
+Unreleased
+Never Released
+
+Persistent World
+Random Encounter
+Random Battle
+Hammer Ons & Pull Offs
+Hammer On
+Pull Off
+Party System
+Generation Remix
+Mod Support
+Modification Support
+Min-maxing
+User Generated Content
+Health
+Energy
+Health Gauge
+Health Points
+Heart Points
+Hit Points
+HP
+Life
+Life Bar
+Life Gauge
+Lifebar
+Vitality
+Uncanny Valley
+Camping
+Spawn Camping
+Spawn Killing
+Corner Crouching
+Upgradeable Weapons
+Weapon Upgrades
+Expanding Crosshair
+Dual Wielding
+Akimbo
+
+Black Market
+Breaking the Fourth Wall
+4th Wall
+Self Awareness
+Meta
+
+Star Power
+Full Combo
+FC
+Tea-Bagging
+Corpse-humping
+A.I. Companion
+Tag Along NPC
+Hireable NPC
+Hireable Companion
+Hired NPC
+Hired Companion
+Recruitable NPC
+Recruitable Companion
+Smart Bomb
+Auto-Aim
+Precise Aim
+Fine Aim
+Zoom
+Auto-Target
+target lock
+Alignment
+Multiple Protagonists
+Sex Change
+Gender Change
+Camouflage
+Camo
+New Game Plus
+New Game+
+New Game EX
+New Game X
+Playthrough 2
+Ex-Play
+2nd Quest
+Second Quest
+Post-Game
+Post Game Content
+NG+
+NG Plus
+Realm vs. Realm
+
+Stride Cross Battle System
+Robot Masters
+Customizable Characters
+Character  Customization
+Living Guild
+No Clip
+Team Killing
+Sticking
+Elements
+Loot Gathering
+Loot System
+SingStore
+Morale
+Morale Meter
+Baditude
+Forced Attitude
+Dungeon Crawling
+Telekinesis
+Psychokinesis
+Randomly Generated Dungeons
+
+On-Rails
+Guided Experience
+Rail Shooter
+Light Gun Shooter
+Musical Peripherals
+Full Reactive Eyes Entertainment
+FREE
+The Force
+Cel-Shading
+Toon-Shading
+Cell-Shading
+
+Squeezing
+Planet Destruction
+Human Shield
+Meat Shield
+
+Invisible Wall
+Invisible Border
+Level Selection
+Stage Selection
+Track Selection
+Map Selection
+World Selection
+Speedrun
+Speed Run
+Time Attack
+Heads Up Display
+HUD
+
+Organization XIII
+13 Seekers of Darkness
+Difficulty Level
+Variable Difficulty Level, Game Level, Difficulty Slider, Skill Level, Select Difficulty
+Difficulties
+Mode 7
+Minimap
+Mini Map
+GPS
+Aliens
+Control Point
+Healer
+Medic
+Cleric
+Priest
+Druid
+White Mage
+Doctor
+Original Soundtrack Release
+OST
+Context Sensitive
+Action Button
+Dynamic cursor
+Contextual cursor
+Interact button
+Context move
+Unreliable Narrator
+Turn-Based
+
+
+Helghast
+Higs
+
+Light Bloom
+PlayStation Trophies
+PS Trophy
+PS3 Trophies
+PSV Trophies
+PS Vita Trophies
+Microtransaction
+MTX
+
+Celebrity Tie-in
+Stacking
+Vehicle Customization
+Vehicle Modifications
+Car Customization
+Umbrella Corporation
+Horse Riding
+Randomly Generated Maps
+Randomized Playthrough
+Open World
+Sandbox
+Non-Linear
+Open World Jank
+Free Roam
+
+Graffiti
+The Zero Prequel
+Origins Prequel
+Duality
+Hume Black Mage
+Hume White Mage
+Moogle Thief
+4X
+four x
+Synaesthesia
+Samurai
+Character Creation
+Character Generation
+Create a Character
+Artificial Intelligence
+A.I.
+AI
+Linear Motion Battle System
+LMBS
+LiMB System
+Consumables
+Vortigaunt
+Vort
+Alien Slave
+Kingdom Hearts
+
+Payload
+Quad Damage
+Flashback
+Escort Mission
+
+Bosses
+Boss
+Antagonist
+Headcrab
+head humper
+Advisor
+
+Customization
+Tactical Turn-Based Combat
+Heartless
+Web Integration
+Cheat Code
+Launch Titles
+Launch Games
+Launch Software
+Backtracking
+
+Friend Codes
+Aftertouch
+Destructible Environment
+Tycoon
+Finance
+Commerce
+Wealth
+
+Isometric Viewpoint
+Isometric Projection
+Raid
+Motion Blur
+Overdrive
+Limit Break
+Grinding
+Broken English
+Bad Translation
+Poor Translation
+Antlion
+Romance
+Bunny Hopping
+bunnyhopping
+Stat Tracking
+Statistics
+Stats Counter
+Stats Screen
+Level Completion Stats
+Character Growth
+Mana
+Energy
+Monster Chest
+Mimic
+Pandora's Box
+Pandorite
+Zivilyn Bane
+Enemy Treasure Chest
+Chocobo
+High Score
+Best Score
+Highscore
+Top Score
+Ages
+
+Crude Renditions of Real People
+Slime
+Fetch Quests
+Temporary Invincibility
+Temporary Invulnerability
+Class Change
+Class Advancement
+Class Promotion
+Promotion
+Grue
+In-Game Map Editor
+In-Game Stage Editor
+Level Editor
+Stage Editor
+External Map Editor
+Mii Support
+Revive
+Parkour
+Freerunning
+Free Running
+Urban Ninja
+City Jumping
+Juggling
+Juggle Combo
+Lag
+
+Guard Impact
+Interactive Battle System
+Robots
+Bots
+Droids
+Nanomachine
+Comic Book Cutscene
+Nuclear War
+Immortality
+
+Clone
+Clones
+doppleganger
+Replica
+Body Armor
+Bullet proof vest
+Health Fortifier
+Kevlar vest
+Amnesia
+Memory Loss
+Can't Remember
+
+Poison
+Hand to Hand Combat
+Boxing
+Fist Fighting
+Fisticuffs
+Fistfight
+H2H
+Hand2Hand
+Dancing
+Gold Farming
+
+Super Speed
+Haste
+Superspeed
+Checkpoints
+Terrorists
+Freedom Fighters
+Political Extremists
+OpFor
+Opposing Force
+Khajiit
+Voice Commands
+Weak Spot
+Weak Point
+Weakness
+Vulnerable Point
+Vulnerable Spot
+Massive Damage
+Scanning
+Job System
+Side-Scrolling
+Sidescrolling, Side Scrolling 
+Collection Marathon
+Collect-a-thon
+TACOs
+
+Tech Trees
+Roping
+Limit Break
+Desperation Attack
+Trance
+Overdrive
+Class-Based Shooter
+Squad Based Shooter
+Tactical Shooter
+
+
+Explosion
+Explosions
+Desperation Move
+Verticality
+Pikmin
+Knock Out
+KO
+K.O
+Knockout
+Supernatural Arm
+Heroes
+Heroines
+Commander
+Special Unit
+Hero Unit
+
+Invisibility
+Transparency
+SPECIAL System
+Prequel
+Rail Shooter
+Guided Experience
+Bullet Hell
+Maniac Shooter
+Manic Shooter
+Danmaku
+Bullet Curtain
+Barrage
+Split-Screen Multiplayer
+Lives
+Credits
+AGI
+Moving Platforms
+
+Special Attacks
+Special Moves
+Procedural Generation
+Downloadable Content
+DLC
+First-Person Perspective
+1st Person
+FPP
+FPV
+First-Person View
+
+
+Lucha Libre
+Dimension Travel
+Gibs
+Gibbing
+Gib
+Giblet
+Giblets
+Custom Soundtrack
+Custom Music
+Customizable Soundtrack
+Personalised Soundtrack
+Kart Racer
+Kart Racing
+Nobody
+Side Quests
+Seasons
+Remake
+
+Fire Propagation
+Barrel Roll
+Expansion
+Add-on
+Addon
+Expansion Pack
+
+Player vs Player
+PvP
+Versus
+Splash Damage
+AoE
+Area of Effect
+Blast Radius
+
+Player vs Environment
+PvE
+Flight
+Flying
+Gliding
+Hotkey
+Holding Hands
+
+Hotseat
+
+Can't Swim
+Unable to swim
+Realism
+Sphere Grid
+Mavericks
+Irregular
+Superweapon
+Zerg
+Block Puzzle
+Killing Rats
+Extermination
+
+Random Loot
+Perks
+Boosters
+Hostages
+Hostage Situation
+POW
+Prisoner of War
+Stomping
+Butt-Stomp
+Photography
+Damage Over Time
+DoT
+Insult Swordfighting
+Game Over
+You are Dead
+Mission Failed
+Protoss
+Succubus
+Seductress
+Succubi
+Temptress
+Collectibles
+Trinkets
+High Definition Graphics
+Jagen
+Jeigan
+Oifaye
+Crouching
+Crouchwalk 
+Crouch Walk
+Ducking
+Duck Walk
+Jump
+Hop
+Hopping
+Jumping
+Leap
+Leaping
+Prinny
+Prinnies
+Laguz
+Skill Tree
+Linear Gameplay
+
+Plane Shifting
+Arocknid
+Badgesicle
+Barkbark
+Bonboon
+Bunnycomb
+Buzzenge
+Buzzlegum
+Candary
+Chewnicorn
+Chippopotamus
+Cinnamonkey
+Cluckles
+Cocoadile
+Death Knight
+Dark Champion
+Death Champion
+Death Kniggit
+Dread Knight
+Hit Points
+HP
+Hitpoints
+Health Points
+Super Bouncing
+Super Jump
+Super Jumping
+Instagib
+Big Head Mode
+DK Mode
+Lightning Manipulation
+Electricity Control 
+Classes
+Character Class
+Career Path
+Jobs
+Professions
+Transformations
+
+Alien Invasion
+Mounts
+Skill Stick
+Psychic Abilities
+Psychic Powers
+The Locked Door
+Locked Doors
+Tower Defense
+Tower Defence
+
+Flanking
+Lock On
+Lockon
+Z-Targeting
+Lock-On
+Mods
+Strategic Dismemberment
+
+Mini-Boss
+Guardian
+Mid-Boss
+Midboss
+Sub-Boss
+Virtual Reality
+VR
+Sidekick
+Deuteragonist
+Self Destruct Sequence
+Anti-Hero
+Spiritual Successor
+Spiritual Sequel
+Shinigami
+Disc Streaming
+
+SCUMM
+Script Creation Utility for Maniac Mansion
+The Tediz
+Permanent Death
+permadeath
+ironman
+Kill to Death Ratio
+Licensed Soundtrack
+Xbox Live Arcade Game Integration
+Baiting
+
+Brain Training
+Tank
+Tanking
+
+
+Buddy System
+Plot Twist
+
+Melee
+Pirates
+Air Pirate
+Airship Pirate
+Buccaneer
+Corsair
+Filibuster
+Freebooter
+Marauder
+Picaro
+Picaroon
+Plunderer
+Privateer
+Raider
+Rapscallion
+Sea Dog
+Sea Raider
+Space Pirate
+Swashbuckler
+Colossi
+FOXHOUND
+Killcam
+
+Interactive Title Screen
+Deathmatch
+Free-for-all
+Itemization
+Sandbox
+Locust Horde
+
+Grappler
+Throw Character
+
+Addiction
+Withdrawal
+Horde
+Alliance
+Boost
+Healing Food
+Healing drink
+
+Third-Person Perspective
+3rd Person
+Third-Person View
+TPP
+TPV
+
+Vector Graphics
+Party Games
+Portals
+
+Hack and Slash
+Slice and Dice
+Cut and Gut
+Hack n' Slash
+Covenant Elite
+Sangheili
+Elites
+World War II
+Second World War
+WW2
+WWII
+World War 2
+World War Two
+WASD Movement
+WADS
+Stopping Power
+Motion Control
+Leveling Up
+Leveling, Level Up, Leveling System, Character Growth, Character Evolution, Character Progression
+Anthropomorphism
+Anthropomorphic
+Gijinka
+Furry
+Furries
+Flickit Control
+Grenade Tag
+War
+
+
+Vehicular Combat
+Car Combat
+Vehicle Combat
+Vehicle Melee
+Double Kill
+Macromanagement
+Macro
+Black Mesa
+Swarming Enemies
+Film Grain
+Stock Footage Effect
+
+Police Chase
+Street Racing
+Sprite
+Orcs
+Orks 
+Greenskins
+Scout Class
+Scout
+Scouts
+Disease
+Plague
+Pestilence
+Infection
+Infinity Engine
+Shoryuken
+Dragon Punch
+Sheng Long
+Moogles
+Moogle
+Mog
+Mogs
+Taunting
+
+
+Risk
+Havok Physics
+Pinata
+Screw Attack
+Reloading
+Controversy
+Outrage
+
+
+Roundhouse Kick
+Fishing
+Glitch
+Bug
+Bugs
+Glitches
+Jank
+Bam There It Is
+Blood
+Red Stuff
+Inventory
+Backpack
+Equipment
+Arsenal
+
+
+Martial Arts
+
+Create-A Modes
+Barbershop Baritone
+Barbershop Tenor
+Strafing
+Not-So-Bad Guys
+Well Intentioned Extremist
+Frenemy
+Frienemy
+Animate Trash
+Dr. Ernald P. Whimple
+Limb Targeting
+Limb System
+Localized damage
+Eating
+Consuming
+Devouring
+Barbershop Bass
+Barbershop Lead
+Maze
+Labyrinth
+Dark Mimes
+Boardwalk Mime
+
+Lava Stage
+Lava Level
+Fire Stage
+Fire Level
+Build Queues
+Planning Queues
+Construction Queues
+
+
+Fruit Fucker (Mark II)
+Elves
+Elfs
+Elven
+Sylvan
+Fey
+Feyfolk
+Mer
+Elf
+Dal
+Flawless Victory
+Rock Paper Scissors
+Jan-ken-pon
+roshambo
+Jinjos
+Saving Throw
+Gift of the Gods
+Werewolves
+worgen
+Wolfman
+Wolfmen
+Lycanthropy
+lycanthropes
+Werewolf
+Lycan
+Konami Code
+Contra Code
+Up, Up, Down, Down, Left, Right, Left, Right, B, A
+Up, Up, Down, Down, L, R, L, R, B, A, START
+Forced Defeat
+Forced loss
+No win situation
+Unit Stack
+
+Head Jumping
+head stomp
+Pokémon
+Pocket Monsters
+Pokemon
+Changing Dimensions
+Dragons
+Dragon
+Long
+Wyrm
+Wurm
+Nightopians
+Zora
+Squad Tactics
+Squad Command
+Fat Hobos
+Fruit Fucker (Mark I)
+Demon
+Demons
+Devils
+Fiends
+Hellspawn
+Imps
+Onis
+Satans
+El Diablo
+ASCII
+Online
+Online Multiplayer
+Online Interaction
+The Internet
+The Cloud
+MMO
+
+Sex
+Breeding
+Copulation
+Hot Coffee
+Intercourse
+Making Love
+Reproduction
+
+
+WEAPON
+Exit Door
+Exit Gateway
+Exit Portal
+Exit Hatch
+Ancient Advanced Civilization Technology
+Decant Ability
+Orbs
+Iron Sights
+Ironsights
+Aim Down the Sight
+ADIS
+ADS
+Triangle Attack
+No HUD
+HUDless
+Shape-Shifting
+Fruit Fucker (Mark III)
+Fruit Fucker (Mark IV)
+Minerals
+
+Currency
+Money
+Cash
+Credits
+
+Parser
+text parser
+text input
+
+Krogan
+Persistent Bullet Holes
+Alien Languages
+Structured Gibberish
+Crowds
+Spectators
+Alternate Costumes
+Unlockable Outfits
+Alternate Outfits
+Alternate Skins
+Fitness
+Tyrannosaurus Rex
+T-Rex
+
+Wraparound World
+Screen wrap
+map looping
+F.E.V.
+Life Drain
+Health Sap
+Leech Health
+Leeching
+Life Leech
+Life steal
+Lifetap
+Life Tap
+Bullet Penetration
+Dystopian World
+Dreams
+Dreaming
+Nightmare
+Alternate Fire
+Alt fire
+Secondary fire
+Henchmen
+Goons
+Minions
+Parallel Worlds
+Normal Mapping
+Bots
+A.I. Bots
+Bots
+
+Naval Battles
+Naval Combat
+Naval Warfare
+Pandaren
+
+
+Recoil
+"Kickback"
+Sprinting
+Running
+Full Motion Video
+FMV
+
+Chozo
+Head Tracking
+Snaking
+Level Scaling
+Traps
+
+World Map
+Blind Fire
+Blindfiring
+Blindfire
+Micro Games
+Microgame
+Micro-Game
+Farming
+Agriculture
+Viera
+Hume
+Bangaa
+High Dynamic Range
+HDR
+Nameless Location
+Objective-Based Team Gameplay
+Draw
+Stalemate
+Prone
+Sanity Meter
+Big Daddy
+Bouncer
+Mr.Bubbles 
+Rosie
+Rumbler
+Moogle Animist
+Moogle Black Mage
+Moogle Juggler
+Moogle Knight
+Moogle Chocobo Knight
+Moogle Fusilier
+Moogle Tinker
+Moogle Flintlock
+Moogle Time Mage
+Sound Test
+Continue
+Black Magic
+Action Points
+AP
+Crosshair
+Reticule
+Reticle
+Multi-Tech
+Evil Organization
+Evil Corporation
+ODST
+Orbital Drop Shock Trooper
+Helljumper
+Paintball
+Clan
+Guild
+Slig
+The Flood
+Bonus Stage
+Bonus Challenge
+Challenge Room
+Splicers
+Voice Chat
+VOIP
+Madden Curse
+Chaos
+Warp
+Adeptus Astartes
+Angels of Death
+Space Marines
+Strafe-Jumping
+Tie-In
+DNAS
+The Jedi
+
+Lost Soul
+Spiderdemon
+Revenant
+2.5D
+Two and a half D
+Pseudo-3D
+Mancubus
+Pain Elemental
+Cacodad
+Hell Knight
+Spectre
+Arachnotron
+Spartan
+Squad
+Hadouken
+Hadoken
+Grimoire
+
+Status Effects
+Status Ailment, Condition
+Weapon Workshops
+Forge
+Smithy
+Workbeach
+Respawn Justification
+No Permanent Death
+Instant Kill
+Instakill
+Insta-Kill
+One Hit Kill
+Chimatsuri
+Instagib
+Death Touch
+Luma
+Fast Travel
+Instant Travel
+Quick Travel
+Hunger
+Starving
+Starvation
+Noki
+Product Placement
+Polarity
+
+Urinating
+Peeing
+Pissing
+Weeing
+Urination
+Unbeatable Bosses
+Unwinnable Boss Battle
+Impossible Boss Battle
+Impossible Bosses
+Undefeatable bosses
+impossible battle
+Manticore
+Mantichora
+Active Dimension Battle
+Rush
+Zerging
+Zerg Rush
+Zergrush
+Tank Rush
+Bear Rush
+Man Darts
+Vestigial Items
+Key Item
+Undroppable
+Evil Twin
+Doppelganger
+Evil Clone
+Shadow Clone
+
+
+Android
+Androids
+Droid
+Mechanoid
+
+Super Jump
+Tag Teaming
+
+Initial Install
+Mandatory Install
+Voluntary Install
+Optional Install
+
+
+Power Up
+powerup
+Alternate Reality
+Parallel Universe
+Alternate Dimension
+Alternate History
+Animal Husbandry
+Oversized Vermin
+Giant Vermin
+Euphoria Engine
+
+
+Witch
+Witches
+Chakra
+Hand Seals
+Hair Attack
+Dinosaurs
+Fireworks
+Smoglings
+Touge
+Run 'N Gun
+Angel
+Angels
+Heavenly Host
+Half-Breed
+Steam
+Nu Mou
+Seeq
+Gria
+Vasari Empire
+Trade Emergency Coalition
+TEC
+The Advent
+Death
+Hostile A.I.
+Aggressive Artificial Intelligence
+Evil Computer
+Rogue AI
+Antagonistic AI
+Evil AI
+Ganking
+Radiation
+Surprising Character Switches
+Bait and switch
+
+Phoenix
+Fire Birds
+Firebirds
+Single-Screen Level
+Crossover
+Mashup
+Mutants
+Monster Capturing
+Giant Rat
+Fusion
+Radial Menu
+Pie Menu
+Pizza Menu
+Inventory Wheel
+Weapon Wheel
+Acrobatics
+Acrobatic Hero
+
+Arm Cannon
+Instant Death
+Water Effects
+Water FX
+Fluid Dynamics
+The Reapers
+The Old Machines
+
+Wallbanging
+Track Deformation
+Soul Reaper
+Shinigami
+Grim Reaper
+Psychopomp
+Reaper
+Giant Enemy Crab
+Wall Run
+Portal Storm
+Grip Mechanic
+Source Engine
+Source
+Advancing Wall of Doom
+Wall of Doom
+Wall of Death
+Advancing Wall of Death
+Wall trap
+Moving walls
+Advancing death trap
+Time Limit
+Race Timer
+Minigame Timer
+Round Timer
+Mission Timer
+
+Games Based on Movies
+Film Tie-in
+Movie Games
+Movie Tie-in
+Games Based on Films
+Alter Ego
+Déjà Vu
+Deja Vu
+Ghosts
+Ghost
+Apparition
+Phantom
+Spirit
+Revenant
+Content Editor
+Chimera
+Multi Sport
+Multiple Sports
+MP
+Magic Points
+Mana Points
+Lens Flare
+Judgement RIng
+Games Based on Anime
+Games based on Cartoons
+Disembodiment
+Limbless
+Exploration
+Vertical Cover
+Pick Your Gender
+Choose Your Gender
+Younger Incarnations
+One-Man Army
+One-Woman Army
+Hume Solder
+Hume Archer
+Hume Paladin
+Hume Blue Mage
+Moomba
+Mumba
+Shumi
+Hume Parivir
+
+Hume Illusionist
+Hume Seer
+Vehicle Performance Degradation
+Pom-Pom
+Hammer Bros.
+Power Gauge
+Overdrive
+Imp
+Imps
+Familiar
+Quasit
+Shotgun Guy
+Shotgun Zombie
+Former Human Sergeant
+Sergeant
+Top-Down Perspective
+Hume Fighter
+Hume Thief
+
+Cheep-Cheep
+
+Piranha Plant
+Kill Stealing
+Hume Ninja
+Hume Hunter
+Clubba
+Terraforming
+Swinging
+Turian
+Disguise
+Breeding
+Warp Zone
+Multiplier
+Score Multiplier
+Chain Multiplier
+Merchants
+Salesman
+Shop Keeper
+Shopkeeper
+Store Owner Trader
+Vendor
+Clear Save
+Post-Game Content
+After End Content
+Cleared Game
+Clear Game
+Clear Mode
+Arch-Vile
+Cyberdemon
+Human
+People
+Men
+Women
+Humans
+Humanity
+Polybius
+Hero Turned Evil
+Face Heel Turn
+Villain Turned Good
+Evil Turned Good
+Heel Face Turn
+Cthulhu Mythos
+Lovecraftian horror
+
+Random Number Generation
+RNG
+Dark Humor
+Gallows Humor
+Exclamation Mark
+Possession
+Dog
+Canine
+Dogs
+Hounds
+K9
+Puppy
+Mutts
+Flaming Weapon
+
+MacGuffin
+Salarian
+Quarian
+Banned
+Pine
+Sycamore
+Foxdie
+Geometry
+Break Arts
+Viera Spellblade
+Viera Elementalist
+Viera Summoner
+Viera Assassin
+Subspace Emissary
+Cacodemon
+Viera Archer
+Overheating
+Weapon Overheat
+Baron of Hell
+Recurring Boss
+I'll be back
+Ethereal
+Viera Sniper
+Scaring
+Nu Mou Sage
+Nu Mou Illusionist
+Nu Mou Alchemist
+Pit
+Chasm
+Abyss
+Gap
+Hole
+Bottomless Pit
+Pits
+
+Cooking
+Baking
+Time Paradox
+Warping
+Seeq Viking
+Viera Green Mage
+Viera Red Mage
+Deku
+Deku Scrub
+Goron
+Gerudo
+Team-Up Attacks
+Z-Machine
+Shibito
+Yamibito
+Nu Mou White Mage
+Interactive Cutscene
+Mutagenic Agents
+Close Quarters Combat
+CQC
+CQB
+Close Quarters Battle
+Endurance Racing
+Counter System
+Counterstrike
+Counter Attack
+
+Necrons
+Necrontyr
+Saving the World
+Save the World
+Doenut
+Dragonache
+Crowla
+Dragumfly
+Eaglair
+Elephanilla
+Fizzlybear
+Flutterscotch
+Ponocky
+Fourheads
+Galagoogoo
+Fudgehog
+Goobaa
+Horstachio
+Jameleon
+Juicygoose
+Pretztail
+Kittyfloss
+Lackatoad
+Lickatoad
+Macaracoon
+Mallowolf
+Profitamole
+Moozipan
+Mothdrop
+Mousemallow
+Pudgeon
+Newtgat
+Parrybo
+Quackberry
+Pigxie
+Raisant
+Viera Fencer
+Fog
+Mist
+Metagame
+Game Within Game
+Games Inside Games
+Meta-Game
+Viera White Mage
+Rashberry
+Salamango
+Shellybean
+Advergames
+Sherbat
+Sparrowmint
+Squazzil
+Swanana
+Sweetooth
+Twingersnap
+Taffly
+
+Reddhott
+Zumbug
+Roario
+Whirlm
+Unresolved Stories
+Lycanthropy
+Nu Mou Black Mage
+Nu Mou Time Mage
+Nu Mou Beastmaster
+Nu Mou Arcanist
+
+
+Nu Mou Scholar
+Puzzles
+Puzzles, Riddles
+
+Crafting
+Trade Skills
+Tradeskills
+
+DomZ
+Kryll
+Nonlinear Development
+Multiplayer Party System
+Dwarves
+Dwarf
+Pianta
+Piantas
+Gria Hunter
+Gria Raptor
+Gria Ravager
+Gria Geomancer
+Zone Troopers
+Alpha Section
+Games Based On Movies Based On Games
+
+Cyborg
+Biomechanoid
+Cybernetic Organism
+
+Enclave
+Argonian
+Counter-Terrorists
+
+
+Talking Animals
+
+Shroob
+Gesture-based Controls
+Digging
+
+Blast Processing
+In-engine Cinematic
+Control Grouping
+Blitzball
+Non-Player Character
+NPC
+Non-Playable Character
+Non-Player Characters
+Player Character
+Playable Character
+PC
+Player Characters
+
+Draenei
+Character Import
+World State Import
+Save Import
+
+
+Professional Gaming
+
+Resource Gathering
+Resources
+Harvesting
+Terran
+Rampancy
+Mission Briefing
+Employment
+Job
+Part Time Jobs
+Part-Time Jobs
+Sequence Breaking
+Enemy Capture
+Prostitute
+lady of the night
+street walker
+sex worker
+gigolo
+escort
+3 Round Burst
+World Building
+
+Xtreme Naming
+Extreme Naming
+Extreme Titles
+Xtreme Titles
+
+Porting
+Respawn
+Anti-Gravity Racing
+
+Unreal Engine 2.5
+PlayStation Underground
+A.I. Construct
+Crowd Control
+Deliberately Retro
+Faux Retro
+Fauxback
+Deliberately Old School
+Retraux
+Non-Linear Storytelling
+No Scope
+Curb Stomp
+Damage Model
+In-Game Copyright Protection
+Instruction Manual Security
+Code Wheel
+Word Hunt
+Don't Copy That Floppy
+Heal Over Time
+HoT
+Regenerate
+World Domination
+World Conquest
+Conquering the World
+Conquer the World
+Overworld
+Adventure Map
+Message
+Social Commentary
+Social Issue
+Forced Agenda
+Rebel Alliance
+Galactic Empire
+Self-Destructing Character
+Military
+Cliffhanger
+Cliffhanger ending
+Police
+Bobby
+Constable
+Cops
+Polizei
+The Fuzz
+Law Enforcement
+S.W.A.T.
+Special Weapons And Tactics
+Police Detective
+Detective Inspector
+
+Super Meter
+Cameo Appearance
+Guest Star 
+Nord
+Plasma
+Invented Language
+Alien Language
+Fictional Language
+Games Based on Literature
+Games Based on Books
+Literature Inspired Games
+Book Reference
+Literature Adaptation
+Games on Which Movies are Based
+Game Movies
+Movies Based on Games
+Yugioh Cards
+
+Caterpie
+#010
+キャタピー
+Charizard
+#006
+リザードン
+Charmander
+#004
+ヒトカゲ
+Carjacking
+Grand Theft Auto
+Hijacking
+Hot-wiring
+Jacking
+Charmeleon
+#005
+リザード
+Dragoon
+Ivysaur
+#002
+フシギソウ
+Kakuna
+Cocoon
+
+
+Metapod
+Trancell
+Humiliation
+Pidgeotto
+#017
+Waggle
+Pidgey
+#016
+Squirtle
+#007
+ゼニガメ
+Venusaur
+#003
+フシギバナ
+Wartortle
+#008
+カメール
+Weedle
+#015
+#15
+Beedle
+Pidgeot
+#018
+Extreme Violence
+Gore
+Gratuitous Violence
+Acronym Titles
+Initialism Title
+Aldmer
+Kung Fu
+Los Carnales
+Gods
+Deities
+Deity
+Deus
+Loa
+3rd Street Saints
+Third Street Saints
+Turkey Call
+Westside Rollerz
+Ayleid
+Spray and Pray
+Spraying
+Hosing
+Backwards Compatibility
+
+
+Chao
+Super-ness
+Nudity
+Nude
+Naked
+Full Frontal Nudity
+Male Nudity
+Female Nudity
+Penis
+Vagina
+Breasts
+Groin Strike
+Below the Belt
+Crotch Kick
+Crotch Mutilation
+Groin Attack
+Groin Kick
+Low Blow
+Nut Shot
+Charge
+Hold/Release
+Countdown Timer
+Pre-Race Countdown Timer
+Minigame Timer
+Game Timer
+Race Timer
+Battle Timer
+Weapons Swap
+Weapon Pickups
+Weapon Swap
+Switch Weapon
+The Eredar
+Theft
+Burglary
+Pickpocketing
+Steal
+Roguelike
+The Naaru
+Walrein
+Todozeruga
+Card Based Combat
+Card Battle
+
+Male Antagonist
+Bulbasaur
+#001
+フシギダネ
+Butterfree
+Assist
+Striker
+Support
+Teensies
+The Agency
+Satire
+Destructible Clothing
+Clothing damage
+Ganado
+Detective
+Investigator
+PI
+Private Detective
+Private Dick
+Private Eye
+Private Investigator
+
+Metroid
+Metroids
+Suppressive Fire
+The Mob
+GrimE
+Tutorial
+
+Werehog
+Sonic the Werehog
+Murlocs
+Beorc
+Construction
+Building
+Running Gag
+Ninjutsu
+Monkey Kombat
+
+Frostbite Engine
+Tournament
+Damage Per Second
+DPS
+Licensed Game
+Tie-in
+Conquest Mode
+Domination
+Spin-Off
+Spinoff
+Pixel Hunt
+Combat Racing
+Shopping
+Store
+Villain
+Bad Guy
+Baddie
+Fate
+Destiny
+Profanity
+Swearing
+Cussing 
+Cursing
+Foul-Mouth 
+Sailor-Talk
+Potty Mouth
+Redguard
+Redguards
+
+
+Optional Boss
+Secret Superboss
+Superboss
+Little Sisters
+S'pht
+Ring Out
+Super Strength
+superhuman strength
+Secret Area
+Akrid
+Levitation
+Floating
+Hovering
+Levitate
+Levitating
+Underwater Gameplay
+Diving
+Underwater Diving
+
+Breton
+Imperial
+Mudokons
+Double Entendre in Game Names
+Double Entendre in Videogame Names
+Subliminal Words in Game Tiles
+Puns in Game Titles
+Changing Sides
+Comic Relief
+Klutz
+Oaf
+
+Drafting
+
+Uppercut
+Beedrill
+Spear
+Blastoise
+#009
+カメックス
+
+
+Trilogy
+Pfhor
+
+Gambits
+Space Pirate
+Space Pirates
+Card Collection
+Collectible Card Game
+Licenses
+Evolution
+Emergence Hole
+Brumak
+Bounty Hunting
+Negative Edge
+Ancient Curse
+Divine Wrath
+
+Infinite Pockets
+Adventurer's Pants
+
+Agent
+Licker
+Hunter
+Ultimate Weapon
+Legendary Weapon
+Super Weapon
+Slog
+Instruction Manual Security System
+Hacking
+Slicing
+Undead
+Zombie
+Skeleton
+Death Knight
+Banshee
+Vampire
+Living Dead
+Animated Corpse
+Revenant
+Ghast
+Ghoul
+Specter
+Spectre
+Apparition
+Wight
+Wraith
+Clowns
+X-Naut
+Shoe Horned Controls
+Cheerleader
+Genius-Level Intellect
+Skybox
+Non-Linear Plot
+Mascot Sports
+
+Masocore
+Guild
+Vizard
+
+Good vs. Evil
+Good Versus Evil
+Light Versus Evil
+Light Vs. Dark
+Dualism
+Seal Team 6
+Navy Seal Team Six
+Navy Sea Air Land
+United States Naval Special Warfare Development Group
+DEVGRU
+Special Air Service
+SAS
+British S.A.S.
+GSG-9
+Environment as Weapons
+Enviromental Weapons
+National Gendarmerie
+GIGN
+Groupe d'Intervention de la Gendarmerie Nationale
+National Gendarmerie
+Guerilla Warfare
+Arctic Avengers
+Phoenix Connection
+
+Crooked Cop
+Dirty Cop
+Corrupt Cop
+Pets
+Instance
+Dungeons
+The Turks
+Snakey
+Characters Without Pupils
+Tachikoma
+Mousers
+Air Strike
+
+Kamikaze
+Suicide Bomber
+Hybrid Classes
+Kill Screen
+Voodoo
+Tokusatsu
+Aurora Unit
+Lucavi
+Super Deformation
+Chibi
+SD
+Super Deformed
+Faceless Hero
+Faceless Protagonist
+Hero with Hidden Face
+concealed face
+Thwimp
+Thwomp
+Upgradeable Vehicles
+The 2.9 Kickout
+Laps
+Lap Racing
+Seeq Lanista
+Stereoscopic 3D
+3D Glasses Support
+3D Stereoscopy
+Stereoscopy
+Stereoscopic
+
+Monster Closet
+Enemy Closet
+Combat-Based Platformer
+Cheating Death
+Referees
+Official
+Umpire
+Ref
+Race Official
+Multiple Discs
+Dragon Kill Points
+DKP
+
+Bangaa Warrior
+Sacrifice
+Seeq Ranger
+
+Pegasus
+Pegasi 
+Bangaa White Monk
+White Monk
+Bangaa Master Monk
+Bangaa Dragoon
+Bangaa Gladiator
+Bangaa Defender
+Bangaa Templar
+Bangaa Cannoneer
+Cannoneer
+Bangaa Trickster
+Resurrection
+Reanimation
+Centaurs
+Bangaa Bishop
+Birdmen
+Avian Humanoid
+Bird Man
+Birdman
+Birdmen
+Kenku
+Rogue Squadron
+Galactic Republic
+The Republic
+Super Suit
+Vykker
+Alchemy
+J-Cart
+New Republic
+Corpse Run
+SOLDIER
+Spies
+Agent
+Spy
+Espionage
+Pistol Whipping
+Pistol as a blunt weapon
+Kamehameha
+Mako
+Hurricane Kick
+Tatsumaki Senpukyaku
+Nidorino
+#033
+Nidoking
+#034
+GoldSrc
+Sudden Death
+Extra Innings
+Overtime
+Tie Breaker
+Super Sudden Death
+Pack-In Game
+Bundled With Game System
+Game Bundle
+Console Bundle
+Cutscene Pause
+Rotoscoping
+Rotoscope
+Dedicated Servers
+Nidorina
+
+Grenade Throwback
+Space Marine
+Spehs Mareen
+Battle Meditation
+Football Chant
+Easy Mode
+Combo Breaker
+Combobreaker
+
+Divine Punishment
+Divine Retribution
+Divine Wrath
+Gods Wrath
+War Cry
+Battle Cry
+Primal Scream
+Rebel Yell
+Rattata
+Raticate
+Spearow
+Pazaak
+Fearow
+Ekans
+Arbo
+A.C.E.S.
+Pikachu
+#025
+ﾋﾟｶﾁｭｳ
+Arbok
+#024
+Raichu
+Eldar
+Farseer
+Howling Banshee
+Wraithguard
+Sandshrew
+Sand
+Nidoran (female)
+#029
+Sandslash
+Sandpan
+Machinima
+Nidoqueen
+Quake Engine
+id Tech 1.5
+In Medias Res
+Crossword Puzzles
+Nidoran (male)
+#032
+"Game" 64
+Natas Spin
+Grind
+Clefairy
+#035
+Pippi
+Soccer Player
+Jigglypuff
+Purin
+Judge
+Wigglytuff
+Zubat
+#041
+Knight
+Knights
+Jouster
+Cavalier
+Chevalier
+Champion
+Paladin
+Crusader
+Templar
+King of the Hill
+KOTH
+Zones
+Episodic Content
+The Mafia
+La Cosa Nostra
+This Thing of Ours
+Italian American Mafia
+The Mob
+Mobster
+Gangster
+Organized Crime
+Two-Piece
+Exploding Head
+Survival
+Snorlax
+Running Faster With A Knife
+Tau
+Tau Empire
+The Tau
+Shifting
+Elcor
+Kokiri
+Rito
+Volus
+Korok
+Forest Spirit
+Base Building
+Free to Play
+Freemium
+F2P
+FTP
+
+Sisters of Battle
+Adepta Sororitas
+SoB
+Rainbow
+Rainbows
+Imperial Guard
+Familiar Horde
+Minion horde
+Ultramarines
+Blood Ravens
+Saber Throw
+Interactive Fiction
+Text adventure
+Grid-Based Movement
+Dynamic Soundtrack
+Dynamic music
+Virtual Shop
+Assassin
+Assassins
+Contract Killers
+Hired Killers
+Hitman
+Hitmen
+Scrab
+Slow Motion
+Slowmo
+Adrenaline
+
+Shareware
+Freeware
+Free Games
+Suicide Track
+
+Ship Deck Battle
+Achievement Attempt Detection
+Progress Indicator
+Achievement Tracker
+In-Game Achievement Progression
+Kroot
+Covenant Grunt
+Unggoy
+Grunts
+Sheegoth
+
+Diplomacy
+Newtype
+Ironbreaker
+Runepriest
+Engineer
+Development Hell
+Delayed development
+Bright Wizard
+Coordinated Attack
+Warrior Priest
+Witch Hunter
+
+Spin Dash
+Seeq Berserker
+
+Geo-Mod
+GeoMod
+Geo Mod
+Geo-Mod Technology
+Vulpix
+Rokon
+Golbat
+#042
+Totodile
+Waninoko
+Clefable
+Ninetales
+Kyukon
+Oddish
+Nazonokuza
+Gloom
+Kusaihana
+Vileplume
+Refracia
+Paras
+#046
+Parasect
+#047
+Venonat
+Venomoth
+Time Trials
+
+Revenge
+Vengeance
+Pay-to-Play
+Subscription
+Branded
+Parentless
+Cults
+Cultists
+Circle-Strafing
+Judge Magisters
+DOATEC
+Dead Or Alive Tournament Executive Committee
+Robot Pirate
+Gol
+Leeper
+Reading
+Skull
+Rocky
+Alma
+Gorgons
+Gorgon
+Medusa
+Don Medusa
+Gadgets
+Eavesdropping
+Nuclear Fallout
+Law
+id Tech 4
+Doom 3 Engine 
+Intermission
+id Tech 5
+Mentor
+The Strogg
+Tusken Raider
+J-Pop
+Historical Inaccuracy
+Anachronism
+Anachronistic
+Alternate Historical
+Mind Reading
+
+Batarian
+Geth
+Giratina
+Recurring Character
+Gangs
+Clique
+Crew
+Organization
+Faction
+Scary Children
+Creepy Children
+Deus Ex Machina
+
+Fleet of Retribution
+Covenant Separatists
+The Covenant Civil War
+Great Schism
+Great Betrayal
+Xbox Live
+Death Knight
+Covenant Loyalists
+Sith
+Suicide
+Harakiri
+Spherical Worlds
+Gang Leader
+Skaarj
+
+Voice Acting
+Unlockables
+
+Pittsburgh Steelers
+Pittsburgh Penguins
+Shogun
+Interactive Loading Screen
+Loading Screen Activities
+Loading Screen Mini-game
+Drift Jumping
+Bounce Block
+Questing
+Quests
+Rotfish
+Enforcer
+Grunt
+Ogres
+Oni
+2D
+2-D
+Two-Dimensional
+2-Dimensional
+Two Dimensions
+2 Dimensions
+Floatzel
+Rottweiler
+Polygonal 3D
+3-D
+3-Dimensional
+Three-Dimensional
+Three Dimensions
+3 Dimensions
+Third Dimension
+Polygonal
+Love
+
+Unit Formations
+Palette Swap
+clone
+sprite recolour
+sprite recolor
+
+Armageddon
+End of Days
+End of Times
+End Times
+Doomsday
+Muton
+Floater
+Sectoid
+Snakeman
+Wookiees
+Shambler
+Smoking
+Fire
+Conflagration
+Flame
+Hot Stuff
+Crab-Walking
+Altdorf
+Trolls
+Troll
+Gnomes
+Yetis
+Abominable Snowman
+Yethee
+Yeti
+Souls
+Life Force
+Lifeforce
+Special Tactics and Rescue Service
+S.T.A.R.S.
+STARS
+Terrain Deformation
+Decapitation
+Beheading
+Head Rip
+Rappelling
+Test Your Might
+Sour Pinatas
+Cult Leader
+Natural Disaster
+Disorientation
+Blurred Vision
+Blurry Vision
+Vision Blur
+Ing
+Rogues
+Rakes
+Blackguards
+Deceivers
+Swashbucklers
+Scouts
+Nightblades
+Marauders
+Thief
+Thieves
+Drilling
+Viral Achievement
+Viral Trophy
+Leviathan
+Drugs
+Narcotics
+Boss Rush
+Boss Challenge
+Shark
+Never-Ending
+Unbeatable Games
+No Ending
+Play Forever
+Aurora Engine
+Team Rocket
+Rocket-dan
+Rocket Gang
+
+Political Thriller
+Odyssey Engine
+Comic Book Character
+Marvel Character
+DC Character
+D.C. Character 
+Electron Engine
+Eclipse Engine
+British Grand Prix
+German Grand Prix
+Hungarian Grand Prix
+Belgian Grand Prix
+Italian Grand Prix
+Portuguese Grand Prix
+European Grand Prix
+Japanese Grand Prix
+Australian Grand Prix
+Brazilian Grand Prix
+Pacific Grand Prix
+San Marino Grand Prix
+Monaco Grand Prix
+Spanish Grand Prix
+Canadian Grand Prix
+French Grand Prix
+Crouch Jump
+
+Pookas
+Luxembourg Grand Prix
+Malaysian Grand Prix
+Bahrain Grand Prix
+Turkish Grand Prix
+Chinese Grand Prix
+Attachments
+Austrian Grand Prix
+United States Grand Prix
+Insanity
+Madness
+Argentine Grand Prix
+Zero Point Achievements
+AVALANCHE
+Sailing
+Mechanic
+Lifestream
+Book Style Position
+Vertical DS
+Book Mode
+Artificial Life
+A-Life
+Aerial Combat
+Connectivity
+GCN-GBA-Connectivity
+GameCube & Game Boy Advance Connectivity
+Hidden Village
+
+Ritual
+Ray Casting
+Raycasting
+Blindness
+Genjutsu
+
+Collector's Edition
+Limited Edition
+Special Edition
+Collector Edition
+Barrier
+Invisible Wall
+Boundaries
+Boundary
+Border
+Talan
+Kid Friendly
+Child Friendly
+Games marketed for children
+
+Post-Credits Plot Twist
+After-Credits Story-Changing Ending
+Confederacy of Independent Systems
+Registeel
+
+FROGs
+Haven Soldiers
+Haven Troopers
+Arsenal Football Club
+Arsenal F.C.
+The Gunners
+Ground Pound
+Pound the Ground
+Buttstomp
+Butt Stomp
+Hip Drop
+
+Traffic Checking
+Pop Culture Reference
+Dark Assembly
+Citadel Council
+Final Boss
+End Boss
+FB
+Final Showdown
+Sleeping
+Catch Phrase
+Catchphrase
+Motto
+Slogan
+PlayOnline
+Frost
+Portable Cover
+Deploy-able Cover
+Deployable Cover
+Viking
+Norse
+Norsemen
+Vikings
+
+Hand Of God
+Neon Particle System
+Execution
+Assassination
+Hanar
+Loud Ambient Noises
+Zombie Dogs
+Cerberus
+Putrepup
+Undead Dog
+Undead Hound
+Inventory Loss
+item loss
+weapon loss
+Weather
+Dynamic Weather
+Storm
+Thunderstorm
+Rainstorm
+Luminoth
+Drop-In Drop-Out
+SCI
+Spam
+Gekko
+Puppetry
+Abstract Art Style
+
+Floating Island
+Floating Continent
+Boss Pattern
+Regice
+
+
+Triple Jump
+Mysterious Ally
+???
+Glukkon
+Animation Canceling
+Canceling
+Special Cancel
+Super Cancel
+Roman Canceling
+Drive Cancel
+HD Cancel
+Focus Attack Dash Cancel
+Rapid Cancel
+One More! Cancel
+Doomsday Clock
+Mascot
+Bromance
+BFF
+Male Bonding
+Heterosexual Life Partners
+Guy Love
+Man-crush
+Puzzle Games with Stories
+Paramite
+Recycled Characters
+Evade
+Escape
+Evasion
+Elude
+Avoid
+Skateboarders
+Skaters
+Stun
+Dazzle
+Dizzy
+Freeze
+Knock Down
+Paralysis
+Stagger
+Stun Locking
+No Game Pause
+Recycled Animation
+
+Bullet Bill
+Asari
+Star Bits
+Regirock
+Symbiote
+Time Stopping
+Emulation
+Emulator
+ROMs
+Chicago Bears
+National Football League
+NFL
+Specialized Extracurricular Execution Squad
+S.E.E.S.
+Nyx Annihilation Team
+Special Extracurricular Execute Sector
+Bodily Functions as Weapons
+Snow
+Precipitation
+Goblins
+Goblin
+Greenskin
+Greenskins
+Gretchin
+Hobgoblins
+Religion
+Akatsuki
+Rayquaza
+Devil Gene
+No Blood
+Infinite Ammo
+Unlimited Ammo
+Caution
+Gravity
+Transforming Boss
+Multi-Form Boss
+Boss Transformation
+Flood Infection Form
+Soul Steal
+Flood Carrier Form
+Alert
+Alarm
+Siren
+Tips
+Hints
+Info
+Information
+Clue
+Advice
+Liverpool Football Club
+Flood Combat Form
+Captain
+Multi-Tier Combat
+Stage Transition
+Partners
+White Magic
+Healing Magic
+Restorative Magic
+Invisible Enemy
+Cloaked Enemy
+Crime Fighting
+Lawbreaking
+Breaking the Law
+Crime
+
+Totalitarian Government
+Invisible Object
+Major League Baseball
+MLB
+Eco
+Grapple
+Grab move
+Disfigurement
+Zombine
+Zombie Combine
+
+Misrepresentative Box Art
+Misleading Box Art
+Misrepresentative Cover Art
+Misleading Cover Art
+
+Pro Face-Off
+Galactic Federation
+Ginyu Force
+Sims
+Native American
+Indians
+Groudon
+Quidditch
+
+Cowboy
+Cowgal
+Cowgirl
+Divinity Explained by Aliens
+Brutes
+Jiralhanae
+Diglett
+Digda
+Breath Attack
+Acid breath
+Fire breath
+Ice breath
+Poison breath
+Bad breath
+Attract Mode
+Attract Mode
+Demonstration
+Pre-recorded Gameplay
+Prerecorded Gameplay
+Ki
+Chi
+
+Greatest Hits
+Platinum Games
+PlayStation the Best
+PSOne Books
+Player's Choice
+Platinum Hits
+Best of Platinum Hits
+Platinum Family Classics
+Best of Platinum Family Classics
+Xbox Classics
+Sega All Stars
+PS3 Essentials
+Nintendo Selects
+John Brown's Army
+JBA
+Branching Story Line
+Branching storyline
+Non-linear storyline
+Non-linear storytelling
+Branching plot
+Branching narrative
+Jinchuuriki
+Quicksand
+Brahmin
+Deathclaw
+Female Dropship Pilot
+Brotherhood of Steel
+Virtual Intelligence
+VI
+Murder
+Homicide
+Assassination
+Pickpocketing
+Sleight of Hand
+Picking Pockets
+Pick Pocketing
+Ghoul
+Evasion
+Nali
+Penguins
+Penguin
+
+
+Pole Jumping
+Sentinel
+Propaganda
+Dashboard View
+Cockpit view
+Extinction
+Extinct Race
+Public Quests
+
+Rockstar Advanced Game Engine
+RAGE
+Spiky-Haired Protagonist
+Hairspray
+Hair Defying Gravity
+Don King
+Startling Developments Detective Agency
+Geodude
+Ishitsubute
+
+Skeleton Warriors
+Revenants
+Skeletal Warriors
+Skeleton Soldiers
+Undead Warriors
+Balverine
+One Button Combat
+Valkyrie
+
+Gnolls
+Gnoll
+Griffons
+Griffin
+Griffins
+Griff
+Gryphon
+Attributes
+Statistics
+Stats
+Truskill
+TrueSkill
+Nemacyst
+SpeedTree
+Minotaurs
+Minotaur
+Enforcer
+
+Bats
+Bat
+
+Turtling
+Trigen
+Full Body Awareness
+Visible Feet
+Visible Legs
+First Person Legs
+1st Person Legs
+Games Where You Can See Your Legs
+Games Where You Can See Your Feet
+Dragoon
+Dragon Knight
+Wizards
+Arcanist
+Arch Mage
+Archmage
+Channelers
+Evokers
+Mage
+Mages
+Magi
+Sage
+Sorcerer
+Sorcerers
+Wizard
+Showing Half A Face On Box Art
+
+Data Drain
+The Yakuza
+Nameless Protagonist
+Kid
+the man with no name
+Hollow
+Jjaro
+Armaldo
+
+Digital Rights Management
+Digital Restrictions Management
+DRM
+Anti-Cheat System
+
+Nuclear Holocaust
+Roll
+Rolling
+Rollout
+Fergality
+Wretch
+Tentacool
+Bellsprout
+Madatsubomi
+Water Level
+Water Stage
+Underwater Level
+Underwater Stage
+MUD
+Fixed Camera
+Camera Angles
+Utopian Civilization
+Yoga
+Precognition
+Clairvoyancy
+Reset Button
+
+Greeter
+Fleech
+CryEngine 2
+CryEngine
+Aural Characters
+NPC Voiceover
+Flash Forward
+Darkness
+Blackness
+Gloom
+Chaos Space Marines
+Chaos Marines
+Noise Marines
+Plague Marines
+Traitor Legionnaires
+Traitor Marines
+Classless MMO
+
+
+Film Noir
+Noir
+Game Noir
+Build Engine
+Archon
+Lich
+Liche
+Liches
+Undead Mage
+Undead Sorcerer
+Mummy
+Mummies
+Idle Animations
+Dolphin Diving
+Dive to Prone
+In-Game Radio
+Cetra
+The Ancients
+Item Throw
+Iron Maiden
+Regenerator
+BunnyTrack
+Persona
+Los Illuminados
+The Banda
+Minions
+Xel'Naga
+Touchdown
+
+Protheans
+Collectors
+Manchester United Football Club
+M.U.F.C
+Man Utd
+The Red Devils
+Mining
+Quarrying
+Adapted from Television
+Television Tie-In
+Games Based On TV Shows
+TV Tie-In
+Adapted from TV
+Corrupt Government
+United Federation of Planets
+U.F.P.
+The Federation
+Ferengi
+Cardassian
+Cardassian Union
+Romulan
+Chaos Storm
+Inflation
+Battle Screen
+Psychopaths
+Insane
+Insanity
+Crazy people
+Secret Identity
+Alter Ego
+Las Plagas
+Gambling
+Gamble
+Training Mode
+Practice Mode
+Double Knock Out
+Double Knockout
+Double KO
+Double K.O.
+Multiple Personality
+Split Personality
+
+Intelligent Weapon
+Sentient Weapon
+Cursed Weapon
+Evil Weapon
+Living Weapon
+Ego Weapon
+Save File Unlockables
+Cross-Game Unlockables
+Cross-Game Unlocks
+Save File Unlocks
+Save Game Unlocks
+Save Game Unlockables
+Achievement-based In-Game Unlocks
+Kyogre
+Latios
+Latias
+Jirachi
+The Maerum
+The Alatien
+Slavery
+Menial Labor
+Slaves
+Maps
+Penalties
+
+Zealot
+Crazed Cultist
+Fanatic
+The Dark People
+Gotta catch 'em all
+Four Shot
+4 shot
+Jungle Warfare
+Different Versions
+Two Versions
+Firmware
+One-Handed Gameplay
+Mirrormonster
+
+Tarkatan
+Sharingan
+Henshin
+Foreshadowing
+Swordmaster
+Master Swordsman
+Superhero
+Organized Crime
+Wobbuffet
+Sonansu
+Wynaut
+Secret History
+Dhampirs
+Pre-rendered Backgrounds
+Project Abraham
+Extra Life
+1-Up
+Extra Man
+Extra Guy
+Free Man
+Life Insurance Credit
+Extra Credit
+Extra Lives
+Continues
+Extra Dude
+Vault-Tec Assisted Targeting System
+VATS
+
+
+Shadow
+Shade
+Shadows
+Graveler
+Goroun
+Golem
+Gorounya
+The Azadi
+The Tyren
+Lugia
+XD001
+Ho-oh
+Celebi
+Serebii
+Strategic Point
+Crying
+Rube Goldberg Puzzler
+Rube Goldberg Puzzles
+Rube Goldberg Contraption
+Flip-Flap
+Akka
+Active Stealth
+Rocket Start
+Double Dash!!
+Turbo Start
+Starting Boost
+Start Boost
+Rocket Turbo
+Starting Dash
+Head Start Boost
+Turbo Start Bonus Boost
+Cornering
+Sight Jack
+Vision Borrowing
+Daedra
+Mythic Dawn
+Boss From Hell
+Snowboarding
+Futebol Clube do Porto
+Subtitles
+Growlithe
+Arcanine
+Windie
+Style Meter
+Joke Character
+Comic Relief
+Inebriation
+Drunkenness
+Intoxication
+Alien Abduction
+UFO Abduction
+Dodge Jump
+Stand Alone Complex
+Kill Streak
+Pipo Monkey
+Evil Laugh
+Blocking
+Block
+Timed Block
+Guard
+Guarding
+Klingon
+Klingon Empire
+Harem
+Capital City
+Bee
+Bees
+Honeybees
+Hornets
+Bears
+Bears
+Grizzly 
+Grizzlies
+Kodiaks
+Ursus
+Ursidae
+
+Slide Tackle
+
+The Afterlife
+No Jumping
+No Jump
+Can't Jump
+Unable to Jump
+Inability to Jump
+Age Progression
+Barcelona FC
+Hub World
+Playable Level Select
+Bullet Pattern
+Danmaku
+Boss Vision
+Major League Gaming
+MLG
+Grenade Spamming
+Graffiti Soul
+Holiday Themes
+Passive Ability
+Active Ability
+Climbing
+climb
+Edmonton Oilers
+The Oil
+Montreal Canadiens
+Habs
+Le Canadien (French)
+Le Tricolore (French)
+Chicken
+Hen
+Fowl
+Cucco
+Poultry
+Rooster
+Car Wash Mechanic
+Song Weaving
+Twisting
+Song Twisting
+Disembodied Voice
+Rivals
+Roadie Running
+Spider
+Arachnid
+Spiders
+Tarantula
+Centipede
+Flea
+Magic Meter
+Magic Bar
+Mana Meter
+Mana Bar
+
+Summer Olympic Games
+Winter Olympic Games
+The Alliance for American Autonomy
+Toronto Maple Leafs
+Severed Hand Cover Art
+Auto-Save
+Arena Combat
+Gladiator Battle
+Gladiator Combat
+Arena
+Arena Mode
+Kidnapping
+Abduction
+
+Voxel
+Cold War
+Oddball
+
+Ducks
+Duck
+Mallard
+Drake
+Infection
+D20
+Hexagon
+Hex
+Hex Grid
+Hexes
+Hexgrid
+Scorpions
+Red Herring
+Wild Goose Chase
+Ladybug
+Femme Fatale
+Vertical Scrolling
+Vertical Shooter
+In-Game Advertising
+
+Borg
+Borg Collective
+Cars With No Drivers
+Androgyny
+Genderless
+Androgynous
+Feminine Male
+Effeminate Male
+Masculine Female
+Bishounen
+Bishonen
+Lawyer
+attorney
+prosecutor
+barrister
+solicitor
+Indirect Fire
+Dentist
+Music Video
+Wonder
+Landmarks
+Cultural Landmarks
+Board Game
+Boardgame
+
+Knock Back
+Knock Down
+Knockback
+Knockdown
+Recoil
+Tricks
+New Guy
+FNG
+Rookie
+The Rookie
+Newbie
+The Newbie
+Proby
+Bards
+Minstrels
+Troubadours
+Virtuosos
+Maestros
+Blade Dancers
+Composers
+Impresarios
+Muses
+Hitbox
+id Tech 2
+Quake 2 engine
+Quake II engine
+id Tech 3
+Quake 3 Engine
+Unreal Engine 1
+Unreal Engine 2
+Lithtech Engine
+Fear Engine
+Direct Engine
+XnGine
+PhysX
+Gliding
+Challenges
+Platoon
+Company
+Fleet
+Forge
+Map Editor
+Save Film
+Recorded Game
+Recorded Session
+Screenshots
+Snapshot
+Shooting Range
+Shooting Gallery
+Malkavians
+Cascoon
+Mayuld
+Beautifly
+Agehunt
+Stars of Destiny
+Abra
+Casey
+Absol
+Alakazam
+Fudin
+Ampharos
+Denryu
+Azurill
+Ruriri
+Azumarill
+Marilli
+Bagon
+Tatsubay
+Banette
+Bayleef
+Bellossom
+Kireihana
+Blissey
+Mr. Mime
+Barrierd
+Mister Mime
+Onix
+Iwark
+Nosepass
+Misdreavus
+Muma
+Minun
+#312
+Natu
+Muk
+Starfleet
+Sweat
+Dugtrio
+Galactic Civil War
+Realian
+
+Meowth
+Golduck
+Mankey
+Kadabra
+Yunghelor
+Machop
+Machoke
+Gorikie
+Machamp
+Kairikie
+Magnemite
+Magneton
+Farfetch'd
+Doduo
+Dodrio
+Dewgong
+Grimer
+Clone Wars
+Gastly
+Ghos
+Haunter
+Cloyster
+Gengar
+Gangar
+Drowzee
+Sleep
+Hypno
+Sleeper
+Krabby
+Kingler
+Electrode
+#101
+Marumine
+Exeggcute
+Exeggutor
+Cubone
+Karakara
+Marowak
+Garagara
+Hitmonlee
+Hitmonchan
+Lickitung
+Koffing
+ #109  
+Chansey
+Kangaskhan
+Horsea
+Goldeen
+Jynx
+Roguela
+Electabuzz
+Eleboo
+Magmar
+Gyarados
