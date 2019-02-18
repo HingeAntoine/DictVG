@@ -34,7 +34,7 @@ for i in range(begin, end+1):
                 if (cchild.tag == "aliases") & (cchild.text is not None):
                     aliases.append(cchild.text)
 
-    with open("FranchiseDict.txt", "a") as myfile:
+    with open("AccessoryDict.txt", "a") as myfile:
         try:
             myfile.write(name + '\n')
         except UnicodeEncodeError:
