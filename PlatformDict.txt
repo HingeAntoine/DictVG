@@ -1,0 +1,464 @@
+Amiga
+Commodore Amiga
+Game Boy
+Gameboy
+GB
+Game Boy Advance
+Game Boy Advance SP
+Gameboy Advance
+GBA
+Game Boy Player
+GBA SP
+Game Boy micro
+Game Gear
+Sega Game Gear
+Genesis
+Sega Mega Drive
+Sega Genesis
+Sega Nomad
+Atari Lynx
+Lynx
+Sega Master System
+Super Nintendo Entertainment System
+Super NES
+Super Famicom
+SFC
+SNES
+
+Amstrad CPC
+GX4000
+Apple II
+Atari ST
+Commodore 64
+C64
+c64
+C=64
+MSX
+MSX 2
+MSX II
+ZX Spectrum
+Mac
+Macintosh
+OSX
+OS X
+PlayStation Portable
+PSP
+PSPgo
+PSP Go
+PlayStation 2
+PS2
+Xbox 360
+360
+Xenon
+x360
+Nintendo Entertainment System
+Nintendo
+Famicom
+Family Computer
+Control Deck
+FC
+FDS
+NES
+PlayStation
+PS1
+PSX
+Sony PlayStation
+Net Yaroze
+PocketStation
+PSone
+GameCube
+GCN
+NGC
+GC
+Project Dolphin
+Panasonic Q
+Nintendo GameCube
+Atari 8-bit
+Atari 800
+Atari 400
+Atari XL
+Atari XE
+Neo Geo
+AES
+MVS
+NEO
+3DO
+3DO REAL Interactive Multiplayer
+R.E.A.L.
+3do
+CD-i
+Philips CD-i
+CDi
+Jaguar
+Atari Jaguar
+Sega CD
+Mega CD
+VIC-20
+VIC20
+VC 20
+VIC-1001
+Commodore VIC-20
+Sega 32X
+Sega Super 32x
+Sega Genesis 32x
+Sega Mega Drive 32x
+Project Mars
+Xbox
+
+N-Gage
+N-Gage QD
+Nokia n85
+n85
+Nokia Download Service
+PlayStation 3
+PS3
+Wii
+Nintendo Wii
+Revolution
+Wii Mini
+Dreamcast
+Sega Dreamcast
+Apple IIgs
+Amiga CD32
+Atari 2600
+Atari VCS
+Atari 2800
+Sears Video Arcade
+Sears Video Arcade II
+
+Saturn
+Sega Saturn
+Nintendo 64
+N64
+Project Reality
+Ultra 64
+
+
+
+ColecoVision
+TI-99/4A
+
+
+Intellivision
+Nintendo DS
+Nitro
+Dual Screen
+Developers System
+DS Lite
+DSi
+DSi XL
+DSi LL
+TurboGrafx-CD
+TurboDuo
+PC Engine Super CD-ROM2
+PC Engine Duo R
+PC Engine Duo RX
+TGCD
+TurboCD
+WonderSwan Color
+SwanCrystal
+WSC
+TurboGrafx-16
+PC Engine
+TurboExpress
+Core Grafx II
+
+Game Boy Color
+Gameboy Color
+Game Boy Colour
+Gameboy Colour
+GBC
+Commodore 128
+C128
+c-128
+Neo Geo CD
+Odyssey 2
+Philips Videopac G7000
+Philips Odyssey
+Philips Odyssey 2
+Dragon 32/64
+Dragon 32, Dragon 64
+Commodore PET/CBM
+Commodore CBM 
+TRS-80
+Zodiac
+Tapwave Zodiac
+Zodiac 2
+WonderSwan
+Channel F
+Fairchild Video Entertainment System,
+Fairchild VES,
+Saba Video Play,
+Luxor Video Entertainment System,
+Grandstand,
+VES
+Atari 5200
+TRS-80 CoCo
+TRS-80 CoCo II
+TRS-80 CoCo 2
+TRS-80 Color Computer
+
+Atari 7800
+
+iPod
+iPod Classic
+
+Odyssey
+Magnavox Odyssey
+PC-FX
+Vectrex
+Game.Com
+Gizmondo
+Virtual Boy
+VR-32
+Virtual Utopia Experience
+Neo Geo Pocket
+NGP
+Neo Geo Pocket Color
+NGPC
+V.Smile
+Pinball
+Arcade
+Arcades
+Coin-op
+Coin-ops
+
+NUON
+Project X
+Xbox 360 Games Store
+Xbox Live Arcade
+XBLA
+Xbox Live Games on Demand
+Game Room
+Xbox Live Indie Games
+XBLM
+Xbox Live Marketplace
+Wii Shop
+WiiWare
+Virtual Console
+WSHP
+PlayStation Network (PS3)
+PSN
+Leapster
+Microvision
+MVIS
+Famicom Disk System
+Famicom Disc System
+Twin Famicom
+Pioneer LaserActive
+Adventure Vision
+Entex Adventure Vision
+Entex Electronic Arcade
+PC
+Personal Computer
+Microsoft Windows
+DOS
+IBM
+IBM Jr.
+PC Booter
+Sharp X68000
+iPhone
+iPod Touch
+iOS
+iConsoles
+
+Satellaview
+Arcadia 2001
+Aquarius
+Nintendo 64DD
+Pippin
+Pippin Atmark
+R-Zone
+HyperScan
+Game Wave
+DSiWare
+RDI Halcyon
+FM Towns
+FM Towns Marty
+NEC PC-8801
+BBC Micro
+Beeb
+BBC Microcomputer System
+Acorn Electron
+PLATO
+PLTO
+NEC PC-9801
+PC-98
+PC-9800
+Sharp X1
+Sharp X1 Turbo
+Sharp X1 Twin
+Sharp X1 turbo Z
+FM-7
+Fujitsu Micro 7
+NEC PC-6001
+PlayStation Network (PSP)
+PSN
+PSPN
+Nintendo 3DS
+Nintendo 3DS XL
+Nintendo 3DS LL
+3DS
+3DS XL
+3DS LL
+Nintendo 2DS
+2DS
+Sega Pico
+Kids Computer Pico
+Pico
+SuperGrafx
+Bally Astrocade
+Bally Professional Arcade
+iPad
+Apple iPad
+Zeebo
+Android
+Google Android
+Droid
+Windows Phone
+Windows Phone 8
+WP8
+WP7
+Windows Phone 7
+Acorn Archimedes
+Casio Loopy
+Casio "My Seal" Loopy
+Bandai Playdia
+BA-X
+Sharp MZ
+MZ-800
+MZ-700
+SuperMZ
+MZ-2500
+PlayStation Vita
+Next Generation Portable
+PSV
+PS Vita
+Vita
+NGP
+
+RCA Studio II
+RCA Studio 2
+XaviXPORT
+XaviX Port
+GamePark 32
+GP32
+Game Park 32
+Pokemon Mini
+Epoch Cassette Vision
+Cassette Vision Jr.
+Super Cassette Vision
+Epoch Super Cassette Vision
+Yeno Super Cassette Vision
+Lady Cassette Vision
+SCV
+Mega Duck
+Mega Duck WG-108
+Cougar Boy
+Nintendo 3DS eShop
+Nintendo eShop
+3DS Virtual Console
+3D Classics
+3DSWare
+Wii U
+Browser
+Facebook
+World Wide Web
+In-Browser
+Flash Games
+Java Games
+HTML5 Games
+Chrome web store
+Sega SG-1000
+Sega Game 1000
+Mark II
+Othello Multivision
+SG1K
+Telegames Personal Arcade
+SC-3000
+Commodore CDTV
+Commodore Dynamic Total Vision
+CDTV
+CD TV
+PlayStation Network (Vita)
+PSN
+PSNV
+PlayStation Store
+Leapfrog Didj
+Didji
+Xbox One
+Xbox Durango
+XONE
+XBONE
+Xbox 1
+XB1
+Xbox One S
+Xbox One X
+Project Scorpio
+PlayStation 4
+PS4
+Orbis
+PS4 Pro
+Watara Supervision
+QuickShot Supervision
+Action Max
+Casio PV-1000
+Casio PV-2000
+Commodore 16
+Commodore Plus/4
+C16
+Commodore 116
+C116
+Super A'Can
+Super ACan
+Linux
+Ubuntu
+GNU/Linux
+Memorex MD 2500 VIS
+Tandy VIS
+Ouya
+Amazon Fire TV
+New Nintendo 3DS
+New Nintendo 3DS XL
+New Nintendo 3DS LL
+N3DS
+New 3DS
+New Nintendo 2DS XL
+New Nintendo 2DS LL
+N2DSLL
+N2DSXL
+Nintendo Switch
+Nintendo NX
+Game Master
+Systema 2000
+Super Game
+Apple TV
+tvOS
+Sony SMC-777
+Sony Micro Computer
+SMC-777C
+SMC-70
+SMC-70G
+View-Master Interactive Vision
+Fuze Tomahawk F1
+Tomy Tutor
+Tomy Pyuuta
+Tomy Pyuta
+Grandstand Tutor
+Gamate
+MicroBee
+VTech Socrates
+Prof. Weiss-Alles
+Luxor ABC80
+ABC800
+Metric 65
+BRG ABC 80
+Jaguar CD
+Atari Jaguar CD
+Jaguar II
+Amazon Alexa
+Amazon Echo
+Magic Leap One
+Advanced Pico Beena
+Beena
+BeenaLite
